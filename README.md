@@ -4,7 +4,7 @@
 
 ### Steps
 
-1) -Import libraries
+1)Import libraries
 
 2)Read data
 
